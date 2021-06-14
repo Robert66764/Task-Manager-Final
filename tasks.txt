@@ -1,0 +1,9 @@
+robert, doing the laundry, doing the laundry on a Wednesday, 21 April 2021, 2021-05-07, Yes
+robert, doing the laundry, doing the laundry on Wednesday, 21 April 2021, 2021-05-07, Yes
+robert, laundry, doing the laundry on the weekend, 21 April 2021, 2021-05-07, Yes
+bob, laundry, doing the laundry on Wednesday, 21 April 2021, 2021-05-08, Yes
+bob, laundry, doing the laundry, 21 April 2021, 2021-05-10, No
+bob, doing the laundry, doing the laundry on a wednesday, 21 April 2021, 2021-05-10, No
+bobby2, dishes, doing the dishes, 21 April 2021, 2021-05-10, Yes
+roberto, carlos, carlosing, 2021-05-12, 2021-05-10, No
+roberto, dishes, doing the dishes, 2021-05-17, 2021-05-21, Nobobson, laundry, doing the laundry, , 2021-04-05, No

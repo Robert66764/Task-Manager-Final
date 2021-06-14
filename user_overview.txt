@@ -1,0 +1,280 @@
+
+for username: admin
+---------
+
+Total for the user: 0
+Total completed tasks for the user: 0
+ Total incompleted tasks for the user: 0
+ Percentage of incompleted tasks for the user: 0.0%
+ Percentage of completed tasks for the user: 0.0%
+ Percentage of incompleted and overdue tasks for the user: 0.0%
+for username: bob
+---------
+
+Total for the user: 3
+Total completed tasks for the user: 1
+ Total incompleted tasks for the user: 2
+ Percentage of incompleted tasks for the user: 66.66666666666666%
+ Percentage of completed tasks for the user: 33.33333333333333%
+ Percentage of incompleted and overdue tasks for the user: 66.66666666666666%
+for username: dylanrupert
+---------
+
+Total for the user: 0
+Total completed tasks for the user: 0
+ Total incompleted tasks for the user: 0
+ Percentage of incompleted tasks for the user: 0.0%
+ Percentage of completed tasks for the user: 0.0%
+ Percentage of incompleted and overdue tasks for the user: 0.0%
+for username: dylan
+---------
+
+Total for the user: 0
+Total completed tasks for the user: 0
+ Total incompleted tasks for the user: 0
+ Percentage of incompleted tasks for the user: 0.0%
+ Percentage of completed tasks for the user: 0.0%
+ Percentage of incompleted and overdue tasks for the user: 0.0%
+for username: rupert
+---------
+
+Total for the user: 0
+Total completed tasks for the user: 0
+ Total incompleted tasks for the user: 0
+ Percentage of incompleted tasks for the user: 0.0%
+ Percentage of completed tasks for the user: 0.0%
+ Percentage of incompleted and overdue tasks for the user: 0.0%
+for username: bobby
+---------
+
+Total for the user: 0
+Total completed tasks for the user: 0
+ Total incompleted tasks for the user: 0
+ Percentage of incompleted tasks for the user: 0.0%
+ Percentage of completed tasks for the user: 0.0%
+ Percentage of incompleted and overdue tasks for the user: 0.0%
+for username: robert
+---------
+
+Total for the user: 3
+Total completed tasks for the user: 3
+ Total incompleted tasks for the user: 0
+ Percentage of incompleted tasks for the user: 0.0%
+ Percentage of completed tasks for the user: 100.0%
+ Percentage of incompleted and overdue tasks for the user: 0.0%
+for username: eggo
+---------
+
+Total for the user: 0
+Total completed tasks for the user: 0
+ Total incompleted tasks for the user: 0
+ Percentage of incompleted tasks for the user: 0.0%
+ Percentage of completed tasks for the user: 0.0%
+ Percentage of incompleted and overdue tasks for the user: 0.0%
+for username: ddd
+---------
+
+Total for the user: 0
+Total completed tasks for the user: 0
+ Total incompleted tasks for the user: 0
+ Percentage of incompleted tasks for the user: 0.0%
+ Percentage of completed tasks for the user: 0.0%
+ Percentage of incompleted and overdue tasks for the user: 0.0%
+for username: eupert
+---------
+
+Total for the user: 0
+Total completed tasks for the user: 0
+ Total incompleted tasks for the user: 0
+ Percentage of incompleted tasks for the user: 0.0%
+ Percentage of completed tasks for the user: 0.0%
+ Percentage of incompleted and overdue tasks for the user: 0.0%
+for username: chuckybob
+---------
+
+Total for the user: 0
+Total completed tasks for the user: 0
+ Total incompleted tasks for the user: 0
+ Percentage of incompleted tasks for the user: 0.0%
+ Percentage of completed tasks for the user: 0.0%
+ Percentage of incompleted and overdue tasks for the user: 0.0%
+for username: fff
+---------
+
+Total for the user: 0
+Total completed tasks for the user: 0
+ Total incompleted tasks for the user: 0
+ Percentage of incompleted tasks for the user: 0.0%
+ Percentage of completed tasks for the user: 0.0%
+ Percentage of incompleted and overdue tasks for the user: 0.0%
+for username: rocker
+---------
+
+Total for the user: 0
+Total completed tasks for the user: 0
+ Total incompleted tasks for the user: 0
+ Percentage of incompleted tasks for the user: 0.0%
+ Percentage of completed tasks for the user: 0.0%
+ Percentage of incompleted and overdue tasks for the user: 0.0%
+for username: ff
+---------
+
+Total for the user: 0
+Total completed tasks for the user: 0
+ Total incompleted tasks for the user: 0
+ Percentage of incompleted tasks for the user: 0.0%
+ Percentage of completed tasks for the user: 0.0%
+ Percentage of incompleted and overdue tasks for the user: 0.0%
+for username: relo
+---------
+
+Total for the user: 0
+Total completed tasks for the user: 0
+ Total incompleted tasks for the user: 0
+ Percentage of incompleted tasks for the user: 0.0%
+ Percentage of completed tasks for the user: 0.0%
+ Percentage of incompleted and overdue tasks for the user: 0.0%
+for username: fox
+---------
+
+Total for the user: 0
+Total completed tasks for the user: 0
+ Total incompleted tasks for the user: 0
+ Percentage of incompleted tasks for the user: 0.0%
+ Percentage of completed tasks for the user: 0.0%
+ Percentage of incompleted and overdue tasks for the user: 0.0%
+for username: roberto
+---------
+
+Total for the user: 2
+Total completed tasks for the user: 1
+ Total incompleted tasks for the user: 1
+ Percentage of incompleted tasks for the user: 50.0%
+ Percentage of completed tasks for the user: 50.0%
+ Percentage of incompleted and overdue tasks for the user: 50.0%
+for username: tipy
+---------
+
+Total for the user: 0
+Total completed tasks for the user: 0
+ Total incompleted tasks for the user: 0
+ Percentage of incompleted tasks for the user: 0.0%
+ Percentage of completed tasks for the user: 0.0%
+ Percentage of incompleted and overdue tasks for the user: 0.0%
+for username: bobby2222
+---------
+
+Total for the user: 0
+Total completed tasks for the user: 0
+ Total incompleted tasks for the user: 0
+ Percentage of incompleted tasks for the user: 0.0%
+ Percentage of completed tasks for the user: 0.0%
+ Percentage of incompleted and overdue tasks for the user: 0.0%
+for username: rororjrj
+---------
+
+Total for the user: 0
+Total completed tasks for the user: 0
+ Total incompleted tasks for the user: 0
+ Percentage of incompleted tasks for the user: 0.0%
+ Percentage of completed tasks for the user: 0.0%
+ Percentage of incompleted and overdue tasks for the user: 0.0%
+for username: adminsky
+---------
+
+Total for the user: 0
+Total completed tasks for the user: 0
+ Total incompleted tasks for the user: 0
+ Percentage of incompleted tasks for the user: 0.0%
+ Percentage of completed tasks for the user: 0.0%
+ Percentage of incompleted and overdue tasks for the user: 0.0%
+for username: tom berry
+---------
+
+Total for the user: 0
+Total completed tasks for the user: 0
+ Total incompleted tasks for the user: 0
+ Percentage of incompleted tasks for the user: 0.0%
+ Percentage of completed tasks for the user: 0.0%
+ Percentage of incompleted and overdue tasks for the user: 0.0%
+for username: tom
+---------
+
+Total for the user: 0
+Total completed tasks for the user: 0
+ Total incompleted tasks for the user: 0
+ Percentage of incompleted tasks for the user: 0.0%
+ Percentage of completed tasks for the user: 0.0%
+ Percentage of incompleted and overdue tasks for the user: 0.0%
+for username: bob222
+---------
+
+Total for the user: 0
+Total completed tasks for the user: 0
+ Total incompleted tasks for the user: 0
+ Percentage of incompleted tasks for the user: 0.0%
+ Percentage of completed tasks for the user: 0.0%
+ Percentage of incompleted and overdue tasks for the user: 0.0%
+for username: chicnchc
+---------
+
+Total for the user: 0
+Total completed tasks for the user: 0
+ Total incompleted tasks for the user: 0
+ Percentage of incompleted tasks for the user: 0.0%
+ Percentage of completed tasks for the user: 0.0%
+ Percentage of incompleted and overdue tasks for the user: 0.0%
+for username: tom jerry
+---------
+
+Total for the user: 0
+Total completed tasks for the user: 0
+ Total incompleted tasks for the user: 0
+ Percentage of incompleted tasks for the user: 0.0%
+ Percentage of completed tasks for the user: 0.0%
+ Percentage of incompleted and overdue tasks for the user: 0.0%
+for username: hhhh
+---------
+
+Total for the user: 0
+Total completed tasks for the user: 0
+ Total incompleted tasks for the user: 0
+ Percentage of incompleted tasks for the user: 0.0%
+ Percentage of completed tasks for the user: 0.0%
+ Percentage of incompleted and overdue tasks for the user: 0.0%
+for username: rainbow
+---------
+
+Total for the user: 0
+Total completed tasks for the user: 0
+ Total incompleted tasks for the user: 0
+ Percentage of incompleted tasks for the user: 0.0%
+ Percentage of completed tasks for the user: 0.0%
+ Percentage of incompleted and overdue tasks for the user: 0.0%
+for username: bobb6
+---------
+
+Total for the user: 0
+Total completed tasks for the user: 0
+ Total incompleted tasks for the user: 0
+ Percentage of incompleted tasks for the user: 0.0%
+ Percentage of completed tasks for the user: 0.0%
+ Percentage of incompleted and overdue tasks for the user: 0.0%
+for username: vov
+---------
+
+Total for the user: 0
+Total completed tasks for the user: 0
+ Total incompleted tasks for the user: 0
+ Percentage of incompleted tasks for the user: 0.0%
+ Percentage of completed tasks for the user: 0.0%
+ Percentage of incompleted and overdue tasks for the user: 0.0%
+for username: handson
+---------
+
+Total for the user: 0
+Total completed tasks for the user: 0
+ Total incompleted tasks for the user: 0
+ Percentage of incompleted tasks for the user: 0.0%
+ Percentage of completed tasks for the user: 0.0%
+ Percentage of incompleted and overdue tasks for the user: 0.0%
